@@ -9,46 +9,19 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
 </div>
-  
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-  
----
 
-### :woman_technologist: About Me :
+<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e">Software Engineer(Frontend)</a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">Blogger</a></h1>
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+<h2>👨‍💻 Some Projects</h2>
 
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sophi-e/Sentinel-Lab)
+  - [FIM (File Integrity Monitor)](https://github.com/sophi-e/PowerShell-Integrity-FIM)
 
-- :seedling: Exploring Technical Content Writing.
+<h2>📰 Popular Posts</h2>
 
-- :zap: In my free time, I learn problem-solving on Codewars and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-enakpoya/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- [Microsoft Windows Defender and Firewall: Blocking Unwanted Access](https://open.substack.com/pub/sophiaenax/p/microsoft-windows-defender-and-firewall?r=1okfa6&utm_campaign=post&utm_medium=web)
+- [The Art of Secure Password Management: Best Practices](https://open.substack.com/pub/sophiaenax/p/the-art-of-secure-password-management?r=1okfa6&utm_campaign=post&utm_medium=web)
+- [Small Businesses and Cybersecurity](https://open.substack.com/pub/sophiaenax/p/small-businesses-and-cybersecurity?r=1okfa6&utm_campaign=post&utm_medium=web)
+- [Social Engineering](https://open.substack.com/pub/sophiaenax/p/social-engineering?r=1okfa6&utm_campaign=post&utm_medium=web)
+- [Common Cyber Threats You Should Know](https://open.substack.com/pub/sophiaenax/p/common-cyber-threats-you-should-know?r=1okfa6&utm_campaign=post&utm_medium=web)
