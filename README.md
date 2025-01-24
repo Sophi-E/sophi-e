@@ -11,7 +11,7 @@
 </div>
 </div>
 
-<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e">Software Engineer(Frontend)</a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">Blogger</a></h1>
+<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e">Software Developer(I mostly do frontend)</a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">and sometimes Blogger</a></h1>
 
 <h2>👨‍💻 Some Projects</h2>
 
