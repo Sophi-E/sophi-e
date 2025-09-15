@@ -11,7 +11,7 @@
 </div>
 </div>
 
-<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e"></a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">and sometimes Blogger</a></h1>
+<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e"></a><a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">and sometimes Blogger</a></h1>
 
 <p>
   SOC Analyst | Proficient in SIEM (Splunk, Sentinel), EDR, & Incident Handling | Former Frontend Dev with deep knowledge of web-based threats and secure coding practices.
@@ -19,8 +19,9 @@
 
 <h2>👨‍💻 Some Projects</h2>
 
+  - [AI-powered Phishing Detector](https://github.com/Sophi-E/ai-phishing-detector)
+  - [Incident Response Tool](https://github.com/Sophi-E/incident-response-tool)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sophi-e/Sentinel-Lab)
-  - [FIM (File Integrity Monitor)](https://github.com/sophi-e/PowerShell-Integrity-FIM)
 
 <h2>📰 Popular Posts</h2>
 
