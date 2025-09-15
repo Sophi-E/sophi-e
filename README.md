@@ -11,7 +11,11 @@
 </div>
 </div>
 
-<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e">Software Developer(I mostly do frontend)</a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">and sometimes Blogger</a></h1>
+<h1>Hi, I'm Sophia! <br/><a href="https://github.com/sophi-e"></a>, <a href="https://www.linkedin.com/in/sophia-enakpoya/">Cybersecurity Professional</a>, <a href="https://sophiaenax.substack.com">and sometimes Blogger</a></h1>
+
+<p>
+  SOC Analyst | Proficient in SIEM (Splunk, Sentinel), EDR, & Incident Handling | Former Frontend Dev with deep knowledge of web-based threats and secure coding practices.
+</p>
 
 <h2>👨‍💻 Some Projects</h2>
 
